@@ -1,7 +1,7 @@
-# Feature_Engineering_Cases
-This is where I keep my practice notebooks
+# Forecast of customer churn
+Determine whether the client will continue to use the company's services.
 
-#### Most of the solution was taken from https://github.com/DenisVorotyntsev notebook.  
+#### Most of the solution was taken from https://github.com/DenisVorotyntsev/Rosbank_boosters/blob/master/raw_Baseline.ipynb notebook.  
 
 1) TRX_features file - First solution with LGB method
 2) PCA_Intermediate_Version - The solution with PCA for MCC-codes
