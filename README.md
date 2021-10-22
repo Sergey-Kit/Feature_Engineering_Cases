@@ -1,5 +1,5 @@
 # Forecast of customer churn
-Determine whether the client will continue to use the company's services.
+Determine if the customer will continue to use the company's services.
 
 #### Most of the solution was taken from https://github.com/DenisVorotyntsev/Rosbank_boosters/blob/master/raw_Baseline.ipynb notebook.  
 
